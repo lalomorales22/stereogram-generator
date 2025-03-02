@@ -1,6 +1,7 @@
 # Stereogram Generator
 
 A Python application for creating stereograms with AI support.
+<img width="1249" alt="Screenshot 2025-03-02 at 1 05 51 PM" src="https://github.com/user-attachments/assets/87d26c18-c92d-4209-a448-183d10d3ba50" />
 
 ## Features
 
